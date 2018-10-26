@@ -28,3 +28,5 @@ Através de um CEP informado, na planilha corrente, é adicionado o endereço à
 ## Add-In Word
 Durante a manipulação do documento, é pssível selecionar um texto (CEP) e realizar a busca pelo endereço.
 
+
+![alt text](https://github.com/dotnetgoias/office-developer/blob/master/assets/team.jpg "Time de Desemvolvedores")
