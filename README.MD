@@ -11,11 +11,11 @@ UNICODE: viacep.com.br/ws/01001000/json/unicode/?callback=callback_name
 
     callback_name({
       "cep": "01001-000",
-      "logradouro": "Praça da Sé",
-      "complemento": "lado ímpar",
-      "bairro": "Sé",
-      "localidade": "São Paulo",
-      "uf": "SP",
+      "logradouro": "Av. 85",
+      "complemento": "nº 300",
+      "bairro": "St. Sul",
+      "localidade": "Goiânia",
+      "uf": "GO",
       "unidade": "",
       "ibge": "3550308",
       "gia": "1004"
