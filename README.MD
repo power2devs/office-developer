@@ -1,9 +1,9 @@
-# Global Office 365 Developer Bootcamp
+# Global Office 365 Developer Bootcamp - Goiânia, BRA
 
-Repositorio central criado a partir do bootcamp realizado no `Global Office 365 Bootcamp em Goiânia`. O grupo, em conjunto, decidiu criar uma aplicação Open Source que trabalha com a manipulação de endereços via CEP juntamente com a plataforma Office, que por enquanto será distribuído via Excel e Word.     
+Central repository created from the bootcamp held at the Global Office 365 Bootcamp in Goiânia city, Brazil. The group, together, decided to create an Open Source application that works with the address manipulation via CEP (Zip Code) along with the Office platform, which for now will be distributed via Excel and Word.
 
-Como base de busca de endereço e CEP estamos usando o https://viacep.com.br.
-Abaixo um item de retorno com os dados de um endereço qualquer.
+As a search base for address and zip code we are using https://viacep.com.br. 
+Below is a return item with data from any address.
 
 ```
 URL: viacep.com.br/ws/01001000/json/?callback=callback_name 
@@ -23,10 +23,13 @@ UNICODE: viacep.com.br/ws/01001000/json/unicode/?callback=callback_name
 ```
 
 ## Add-In Excel
-Através de um CEP informado, na planilha corrente, é adicionado o endereço à uma célula predestinada.
+Through an informed CEP, in the current worksheet, the address is added to a predestined cell.
 
 ## Add-In Word
-Durante a manipulação do documento, é pssível selecionar um texto (CEP) e realizar a busca pelo endereço.
+While manipulating the document, you can select a text (Zip Code) and perform the address search.
 
 
 ![alt text](https://github.com/dotnetgoias/office-developer/blob/master/assets/team.jpg "Time de Desemvolvedores")
+_Local Developer Team in this Bootcamp_
+
+[View the presentation in SlideShare](https://www.slideshare.net/rodrigokono/global-office-365-developer-bootcamp/rodrigokono/global-office-365-developer-bootcamp)
