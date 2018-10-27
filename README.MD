@@ -24,6 +24,7 @@ UNICODE: viacep.com.br/ws/01001000/json/unicode/?callback=callback_name
 
 ## Add-In Excel
 Through an informed CEP, in the current worksheet, the address is added to a predestined cell.
+To get the source code, access the repository https://github.com/dotnetgoias/enderecos-excel-add-in
 
 ## Add-In Word
 While manipulating the document, you can select a text (Zip Code) and perform the address search.
